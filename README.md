@@ -1,4 +1,20 @@
-Hi, 👋, I’m <span style="display: inline-block; animation: slide 10s infinite linear;">Noha Mostafa</span>, FrontEnd Developer With React.
+<p>
+  Hi, 👋, I’m 
+  <span style="display: inline-block; animation: slide 5s infinite linear;">
+    Noha Mostafa
+  </span>, FrontEnd Developer With React.
+</p>
+
+<style>
+  @keyframes slide {
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+</style>
 
 #### I love building the real world products.👨‍💻
 - ✨ I’m currently working on different Coding Challenges
