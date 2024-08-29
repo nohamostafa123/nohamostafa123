@@ -16,14 +16,14 @@
 - 🚀 How to reach me: Nm2892003@gmail.com
 
 
-I have great experience of building user-friendly dynamic & responsive web applications. With my extensive understanding in JavaScript, Reactjs, NodeJS, MongoDB other programming languages such as C++, I have put great contribution in different projects.
+I have great experience of building user-friendly dynamic & responsive web applications. With my extensive understanding in JavaScript, Reactjs, NodeJS, other programming languages such as C++,java,python I have put great contribution in different projects.
 
 ### Connect with me:
 <p align="center">
   <a href="https://www.linkedin.com/in/noha-mostafa-851043291/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" style="vertical-align:center" /></a>
  <a href="https://nohamoustafa2003.netlify.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://x.com/Noha_Mostafa123/" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="vertical-align:center" /></a>
-<a href="https://www.instagram.com/nohamoustafa2003/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="vertical-align:center" /></a></p>
+<a href="https://flowcv.com/resume/ostu13it4p" target="_blank"><img alt="" src="https://img.shields.io/badge/resume-E4405F?logo=vercel&logoColor=white&style=for-the-badge" style="vertical-align:center" /></a></p>
 
 
 
@@ -46,7 +46,6 @@ JS Frameworks/Libraries
 
 JS Tools
 
-![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
 Other Tools
@@ -58,7 +57,6 @@ Other Tools
 CSS Framework/Libraries/Pre-processors
 
 ![](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![](https://img.shields.io/badge/Ant%20Design-E34F26?style=for-the-badge&logo=antdesign&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
 ![]()
@@ -68,14 +66,13 @@ Design/Visual Tools
 
 ![](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 ![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)
-![]()
+![](https://img.shields.io/badge/Adobe%20illustrator-CC6699.svg?style=for-the-badge&logo=Adobe-illustrator&logoColor=white)
 
 Database/State
 
 ![](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![]()
 
 
@@ -83,7 +80,6 @@ Backend
 
 ![node js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![](https://img.shields.io/badge/strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
 ![]()
 
 
@@ -93,14 +89,9 @@ Web Hosting
 ![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![](https://camo.githubusercontent.com/a4b70cffa0f4df7373282aefff4d3a028e34f98a32576efbc66ecdb9b5532097/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d47697448756225323050616765732d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562)
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
 ![]()
 
-Package Manager
 
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-![]()
 
 
 Version Control
@@ -108,8 +99,6 @@ Version Control
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
 ![Git Lab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white)
-![BitBucket](https://img.shields.io/badge/Bitbucket-0052CC.svg?style=for-the-badge&logo=Bitbucket&logoColor=white)
-![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white)
 
 
 
